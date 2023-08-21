@@ -5,6 +5,9 @@
       <root url="jar://$PROJECT_DIR$/library/testng-7.8.0.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/library/selenium-firefox-driver-4.11.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/selenium-api-4.11.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

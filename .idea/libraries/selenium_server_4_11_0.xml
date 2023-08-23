@@ -8,6 +8,8 @@
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/library/selenium-firefox-driver-4.11.0-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/library/selenium-api-4.11.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Software/selenium-support-4.11.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/selenium-support-4.11.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

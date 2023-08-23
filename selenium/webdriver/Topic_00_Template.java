@@ -5,6 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
@@ -28,14 +29,17 @@ public class Topic_00_Template {
     }
 
 
+    @Test
     public void TC_01_() {
 
     }
 
+    @Test
     public void TC_02_() {
 
     }
 
+    @Test
     public void TC_03_() {
 
     }
